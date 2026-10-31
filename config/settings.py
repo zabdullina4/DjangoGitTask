@@ -1,3 +1,4 @@
+# Разработчик: Абдуллина
 """
 Django settings for config project.
 
